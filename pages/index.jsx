@@ -158,7 +158,7 @@ export default function About() {
               <p className="bg-gradient-to-r from-emerald-500 to-yellow-500 bg-clip-text text-transparent select-none font-semibold mb-1 dark:from-emerald-600 dark:to-yellow-600 flex justify-center">
                 skills
               </p>
-              <div class="grid grid-cols-2 gap-4">
+              <div className="grid grid-cols-2 gap-4">
                 <ProgressBar current={565} total={990} label="TOEIC" />
                 <ProgressBar current={2.86} total={4} label="GPA" />
               </div>
