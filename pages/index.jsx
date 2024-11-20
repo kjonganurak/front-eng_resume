@@ -23,8 +23,8 @@ export default function About() {
     canvas.height = window.innerHeight;
 
     const stars = [];
-    const maxStars = 100; // Number of stars
-    const starColor = "#FFD700"; // Yellow color for stars
+    const maxStars = 20; // Number of stars
+    const starColor = "#00BFFF"; // color for stars
 
     function Star() {
       this.x = Math.random() * canvas.width;
