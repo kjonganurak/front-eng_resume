@@ -10,7 +10,7 @@ const ProjectCard = () => {
       id: 1,
       image: THHealth,
       title: "Thailand Health AI Datathon 2023",
-      description: "Create beautiful images and gifs of your source code",
+      description: "Topics : Scleroderma Patient - Data cleaning of Scleroderma patient data. - Data visualizing of data that cleaned.",
       link: "https://research.kku.ac.th/up_event/thailand-health-ai-conference-datathon-2023/",
       target: "_self",
     },
